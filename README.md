@@ -1,4 +1,35 @@
-# Pomodoro-React
+# Pomodoro Timer
+
+## Projeto feito com React typeScript com eslint.
+
+## Utilizando várias bibliotecas de dependências como:       
+   + hookform, resolvers
+   + date-fns
+   + immer
+   + phosphor-react
+   + react-dom
+   + react-hook-form
+   + react-router-dom
+   + styled-components
+   + zod
+
+## Contém página de histórico, com Localstorage para salvar suas tarefas.
+
+
+   
+     
+
+     
+   
+   
+   
+    
+   
+
+
+
+
+
 
 ![image](https://user-images.githubusercontent.com/100890415/209562971-127db238-824e-47c1-bf0e-ec369329e293.png)
 
